@@ -11,7 +11,7 @@ This project aims to automate the key functionalities of the FlightBooking platf
 - Static Dropdown
 - Dynamic Dropdown
 - Updated Dropdown
-- Windows Activities
+- Window Activities
 - Autosuggestive Dropdown
 
 ## Features
