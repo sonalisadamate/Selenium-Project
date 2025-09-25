@@ -11,7 +11,7 @@ This project aims to automate the key functionalities of the FlightBooking platf
 - Static Dropdown
 - Dynamic Dropdown
 - Updated Dropdown
-- Window Activities
+- Windows Activities
 - Autosuggestive Dropdown
 
 ## Features
@@ -23,3 +23,6 @@ This project aims to automate the key functionalities of the FlightBooking platf
 - Selenium WebDriver
 - TestNG
 - ExtentReports
+
+## Contributing
+Feel free to fork this project, submit issues, and send pull requests. Your contributions are always welcome to improve the project.
